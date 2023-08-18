@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #333;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+.info h1 {
+    font-size: 4rem;
+}
+
+.info {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: rgba(0,0,0,0.4);
+    color: #fff;
+}
+
+.info:before {
+    content: '';
+    background: url('../assets/lbishot.jpeg') no-repeat center top;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.container {
+    max-width: 700px;
+    height: 500px;
+    margin: auto;
+    padding: 0 1rem;
+    position: relative;
+    top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+
+}
+
+
+.bold {
+    font-weight: 700;
+}
+
+
+.section {
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.3); 
+}
+
+.section h1 {
+    font-size: 2rem;  /* Reduced from 2.5rem */
+    margin-bottom: 0.8rem;
+}
+
+.section h2 {
+    font-size: 1.8rem;  /* Reduced from 2rem */
+    margin-top: 0.8rem;
+    margin-bottom: 0.4rem;
+}
+
+.section ul {
+    padding-left: 1.2rem;
+    margin-bottom: 0.8rem;
+}
+
+.section li {
+    font-size: 1.2rem;  /* Reduced from 1.4rem */
+    margin-bottom: 0.4rem;
+}

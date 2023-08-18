@@ -1,0 +1,9 @@
+Date,Time,Model's Prediction Message,Model's Prediction Chance,Accuracy Feedback,Weather Description,Temperature,Feels Like,Temperature (Min),Temperature (Max),Pressure,Humidity,Wind Speed,Wind Direction,Wind Gust,Sunrise,Sunset,Optional Feedback
+Thu Aug 17 2023,12:25:05 PM,It is unlikely for there to be greenheads.,0,Yes,overcast clouds,78.89,78.89,77.99,84.49,1013,89,5.01,120,8.99,6:10:44 AM,7:51:15 PM,great
+Thu Aug 17 2023,12:27:46 PM,It is unlikely for there to be greenheads.,0,Yes,overcast clouds,78.89,78.89,77.99,84.49,1013,89,5.01,120,8.99,6:10:44 AM,7:51:15 PM,great
+Thu Aug 17 2023,3:20:08 PM,It is unlikely for there to be greenheads.,0,Yes,overcast clouds,80.24,85.66,77.99,84.49,1011,86,5.01,132,10,6:10:44 AM,7:51:15 PM,Excellent
+Fri Aug 18 2023,10:34:09 AM,There are almost certainly greenheads.,1,Yes,clear sky,78.96,78.96,76.35,81,1006,74,15.01,295,21,6:11:41 AM,7:49:53 PM,it was great
+Fri Aug 18 2023,12:22:40 PM,There are almost certainly greenheads.,1,Yes,clear sky,79.99,79.99,77,82.99,1006,65,14,298,21.99,6:11:41 AM,7:49:53 PM,no
+Fri Aug 18 2023,12:25:29 PM,There are almost certainly greenheads.,1,No,clear sky,79.99,79.99,77,82.99,1006,65,14,298,21.99,6:11:41 AM,7:49:53 PM,It was amazing
+Fri Aug 18 2023,12:44:35 PM,There are almost certainly greenheads.,1,No,clear sky,79.88,79.88,77.27,82.99,1006,64,11.99,331,17,6:11:41 AM,7:49:53 PM,yes
+Fri Aug 18 2023,1:23:21 PM,There are almost certainly greenheads.,1,Yes,clear sky,79.77,79.77,77.99,82.98,1006,64,11.99,331,17,6:11:41 AM,7:49:53 PM,great
