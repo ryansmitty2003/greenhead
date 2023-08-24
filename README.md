@@ -1,2 +1,2 @@
 # Greenheads
-### Link to live site here: [Linke][https://lbigreenhead.com/]
+### Link to live site here: https://lbigreenhead.com/
